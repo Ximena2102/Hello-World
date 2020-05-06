@@ -4,6 +4,4 @@ Una contribuyente de este repositorio es: Ximena Zamora Garcia
 Colabora con nosotros:
 Maestro Jesús Alberto Rodríguez Hernández
 @jessalbesshero
-tambien colabora con nosotros:
-Eduardo Olivares Merinos
-600-v
+Este proyecto va a integrar elementos de programación.
