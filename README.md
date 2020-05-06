@@ -5,3 +5,4 @@ Colabora con nosotros:
 Maestro Jesús Alberto Rodríguez Hernández
 @jessalbesshero
 Este proyecto va a integrar elementos de programación.
+A commit is a change to one or more files in your branch. Git assigns each commit a unique ID, called a SHA or hash, that tracks: The specific changes. When the changes were made.
